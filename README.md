@@ -11,7 +11,7 @@ This project aims to build a machine learning model to predict house prices in B
 ---
 
 ## 2. Dataset
-- **Source:** Bengaluru House Price Dataset (collected from Kaggle)
+- **Source:** Bengaluru House Price Dataset (collected from Kaggle:https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data/data)
 - **Size:** 13,000+ rows and multiple features like location, size, total_sqft, bath, and price.
 - **Target Variable:** Price (in lakh Indian Rupees)
 
