@@ -1,4 +1,4 @@
-# Real Estate Price Prediction in Bengaluru Using Machine Learning
+# Real Estate Price Prediction Using Machine Learning
 
 ## Short Description
 This project leverages machine learning techniques to predict house prices in Bengaluru, India, based on features like size, number of rooms, location, and bathrooms. It includes data preprocessing, feature engineering, outlier detection, and model evaluation to create a reliable price prediction system. The model was deployed as a Flask-based web application hosted on AWS EC2 with Nginx as a reverse proxy for production readiness.
